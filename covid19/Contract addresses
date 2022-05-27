@@ -1,0 +1,52 @@
+0x26ab4AaBB086f355325BdA286edCdCa1Ce206796
+0x2Eb19f433567f2b3a964CEe67944607160137d4A
+0x9eb68946EdF9c335f309D93428B9DC3Ab389d14E
+0xEaF1Ad37a1a71FE4445D28e09dcbBcF9838A7d17
+0x2B9c51b5143F7c6c6fa9E1Ae00b74E9a6DC10986
+0x5F9e198A88a7D6546d028F1261b01A6f77b93146
+0xd5197FB6120732bf4293DcdF3c5E7885b87F9014
+0x84F943AA4b38dc31D69b33b6ea860E87DcE67609
+0x38fea4dd45a696c8708881AD8dBCc78b4B419dCC
+
+Remix:
+0x5493c9Dd4616F3D2e2d72190eE58Afa6c9011854
+0xafddf8aEF62c44c654d4417C7105070C6CcF9212
+0x8fc0d82ce36ceee349221E29D420eB2DaE45AAd6
+0x8b4b612e6EbEbd9720F8D3c3E64A09edF3A6F024
+0x5C4734cB96b844e7F84Ec0502b3ae68367572680
+
+
+MUI fix:
+
+npm install @material-ui/core
+npm i date-fns
+npm start
+
+https://stackoverflow.com/questions/69458279/module-not-found-cant-resolve-mui-lab-adapterdatefns
+
+React fix:
+
+import React, { Component } from 'react';
+
+https://stackoverflow.com/questions/42640636/react-must-be-in-scope-when-using-jsx-react-react-in-jsx-scope
+
+import React, { Component } from 'react';
+
+https://dev.to/chandelieraxel/why-do-react-need-to-be-in-scope-for-jsx-3hen
+
+dotenv setup:
+
+https://www.chainshot.com/article/hardhat-guides-setup
+
+Solve - Cannot find module 'dotenv' error in Node.js:
+
+https://bobbyhadz.com/blog/node-cannot-find-module-dotenv#:~:text=To%20solve%20the%20error%20%22Cannot,your%20IDE%20and%20development%20server.
+
+etherscan verify:
+
+https://hardhat.org/plugins/nomiclabs-hardhat-etherscan.html
+
+[Error: ENOENT: no such file or directory:
+
+https://ethereum.stackexchange.com/questions/121176/error-when-trying-to-verify-contract
+
