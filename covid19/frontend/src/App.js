@@ -44,7 +44,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Covid-19 PCR Tests</h1>
-        <p id="slogan">Double click an empty slot in the scheduler below to set up your apointment.</p>
+        <p id="slogan">Double click an empty slot in the scheduler below to set up your appointment.</p>
       
         {!account && <button onClick={connect}>connect wallet</button>}
         {account && <Calendar account={account} />}
